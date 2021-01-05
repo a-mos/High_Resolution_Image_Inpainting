@@ -31,6 +31,19 @@ You can find all the images involved in our comparison [here](https://drive.goog
 ### Usage
 You can find example of usage: [youtube](https://youtu.be/7jvqBwRoaVo)
 
+```
+@article{Moskalenko_2020,
+	doi = {10.51130/graphicon-2020-2-4-18},
+	url = {https://doi.org/10.51130%2Fgraphicon-2020-2-4-18},
+	year = 2020,
+	month = {dec},
+	pages = {short18--1--short18--9},
+	author = {Andrey Moskalenko and Mikhail Erofeev and Dmitriy Vatolin},
+	title = {Deep Two-Stage High-Resolution Image Inpainting},
+	journal = {Proceedings of the 30th International Conference on Computer Graphics and Machine Vision ({GraphiCon} 2020). Part 2}
+} 
+```
+
 ## References
 We are largely benefiting from:  
 [1] https://github.com/hughplay/DFNet  
