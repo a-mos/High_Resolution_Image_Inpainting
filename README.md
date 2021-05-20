@@ -29,8 +29,10 @@ You can find all the images involved in our comparison [here](https://drive.goog
       ```bash installGimpML.sh```  
 4) Open GIMP.
 ### Usage
-You can find example of usage: [youtube](https://youtu.be/7jvqBwRoaVo)
-
+You can find example of usage: [youtube](https://youtu.be/7jvqBwRoaVo).  
+Please note that the mask <b>must</b> be exactly binary. Otherwise the filling result will be terrible.  
+To do this, remove antialiasing in selection:  
+<img src="disable_antialiasing.jpeg" width="200">
 ```
 @article{Moskalenko_2020,
 	doi = {10.51130/graphicon-2020-2-4-18},
