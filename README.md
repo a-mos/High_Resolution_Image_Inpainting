@@ -34,16 +34,24 @@ Please note that the mask <b>must</b> be exactly binary. Otherwise the filling r
 To do this, remove antialiasing in selection:  
 <img src="disable_antialiasing.jpeg" width="200">
 ```
-@article{Moskalenko_2020,
-	doi = {10.51130/graphicon-2020-2-4-18},
-	url = {https://doi.org/10.51130%2Fgraphicon-2020-2-4-18},
-	year = 2020,
-	month = {dec},
-	pages = {short18--1--short18--9},
-	author = {Andrey Moskalenko and Mikhail Erofeev and Dmitriy Vatolin},
-	title = {Deep Two-Stage High-Resolution Image Inpainting},
-	journal = {Proceedings of the 30th International Conference on Computer Graphics and Machine Vision ({GraphiCon} 2020). Part 2}
-} 
+@article{moskalenko2021method,
+  title={Method for Enhancing High-Resolution Image Inpainting with Two-Stage Approach},
+  author={Moskalenko, Andrey and Erofeev, Mikhail and Vatolin, D},
+  journal={Programming and Computer Software},
+  volume={47},
+  number={3},
+  pages={201--206},
+  year={2021},
+  publisher={Springer}
+}
+
+
+@article{moskalenko2021deep,
+  title={Deep Two-Stage High-Resolution Image Inpainting},
+  author={Moskalenko, Andrey and Erofeev, Mikhail and Vatolin, Dmitriy},
+  journal={arXiv preprint arXiv:2104.13464},
+  year={2021}
+}
 ```
 
 ## References
