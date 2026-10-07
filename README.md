@@ -24,7 +24,7 @@ You can find all the images involved in our comparison [here](https://drive.goog
 3) macOS Mojave 10.14.6
 ### Installation
 1) Open GIMP and go to Preferences -> Folders -> Plug-ins, add the folder ```gimp-plugins``` from this repo and close GIMP.  
-2) Download [weights](https://drive.google.com/drive/folders/1Zip-XTp7cbVvPZly-TlnBJKavXdiJ8ZN?usp=sharing) and save it in ```gimp-plugins/Inpainting/weights``` folder.  
+2) Download [weights](https://drive.google.com/drive/folders/1HmK_pBNMDjYV3gqYMS6XD4z2wCylrdPz?usp=sharing) and save it in ```gimp-plugins/Inpainting/weights``` folder.  
 3) Open terminal and run:  
       ```bash installGimpML.sh```  
 4) Open GIMP.
