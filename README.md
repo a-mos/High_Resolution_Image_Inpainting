@@ -10,7 +10,7 @@ In recent years, the field of image inpainting has developed rapidly, but most d
 * Install requirements with ```pip install -r requirements.txt```
 
 ### Usage
-1) Download [weights](https://drive.google.com/drive/folders/1Zip-XTp7cbVvPZly-TlnBJKavXdiJ8ZN?usp=sharing) and save it in ```weights``` folder.
+1) Download [weights](https://drive.google.com/drive/folders/1HmK_pBNMDjYV3gqYMS6XD4z2wCylrdPz?usp=sharing) and save it in ```weights``` folder.
 2) Put your images as shown in ```Test/Inputs```
 3) Run: ```python test.py```
 
